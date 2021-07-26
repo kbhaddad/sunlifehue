@@ -1,7 +1,3 @@
--- Create OGCBooks database with PK & FKs, remove useless whitespace in values
-
---USE master;ALTER DATABASE OGCBooks2021 SET SINGLE_USER WITH ROLLBACK IMMEDIATE;DROP DATABASE OGCBooks2021;
-
 CREATE DATABASE OGCBooks2021;
 
 USE OGCBooks2021;
